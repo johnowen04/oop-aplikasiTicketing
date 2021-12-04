@@ -1,0 +1,12 @@
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\bin\Debug\E_160420016_John_Tiket.exe.config
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\bin\Debug\E_160420016_John_Tiket.exe
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\bin\Debug\E_160420016_John_Tiket.pdb
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\obj\Debug\E_160420016_John_Tiket.csprojAssemblyReference.cache
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\obj\Debug\E_160420016_John_Tiket.FormAddTicket.resources
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\obj\Debug\E_160420016_John_Tiket.FormDisplayTicket.resources
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\obj\Debug\E_160420016_John_Tiket.FormMenu.resources
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\obj\Debug\E_160420016_John_Tiket.Properties.Resources.resources
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\obj\Debug\E_160420016_John_Tiket.csproj.GenerateResource.cache
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\obj\Debug\E_160420016_John_Tiket.csproj.CoreCompileInputs.cache
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\obj\Debug\E_160420016_John_Tiket.exe
+K:\.lama\C# Apps\latihan uas\E_160420016_John_Tiket\E_160420016_John_Tiket\obj\Debug\E_160420016_John_Tiket.pdb
